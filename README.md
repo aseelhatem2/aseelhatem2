@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aseel Aburamilah</h1>
 <h3 align="center">Data Science and Analysis Enthusiast from Palestine</h3>
 
-<p align="center">
-  <a href="https://twitter.com/aseelhatem2" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/aseelhatem2?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
-  </a>
-</p>
-
 ---
 
 ### 🔭 Current Focus
