@@ -24,10 +24,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://twitter.com/aseelll" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://fb.com/aseelar" target="_blank">
+  <a href="https://fb.com/https://www.facebook.com/Aseel.Aburmailah?mibextid=ZbWKwL " target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/aseelar22" target="_blank">
