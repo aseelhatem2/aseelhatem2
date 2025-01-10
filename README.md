@@ -24,6 +24,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/aseel-aburmailah/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aseel-aburmailah/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+  
   <a href="https://fb.com/https://www.facebook.com/Aseel.Aburmailah?mibextid=ZbWKwL " target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
   </a>
